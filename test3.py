@@ -1,0 +1,3 @@
+import os
+
+ACCESS_KEY = "AKIA35FGARBHCO7UXG6J"
